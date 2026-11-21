@@ -15,5 +15,8 @@ https://github.com/pooryaamirniya/MP_Midterm/blob/main/README.md
 Requirements and implementation:
 https://github.com/pooryaamirniya/MP_Midterm/blob/main/docs/REQUIREMENTS.fa.md
 
-Presentation video folder (video pending upload):
-https://github.com/pooryaamirniya/MP_Midterm/tree/main/video
+Presentation video (2 minutes 18 seconds):
+https://github.com/pooryaamirniya/MP_Midterm/blob/main/video/short_video.mp4
+
+Presentation video download:
+https://github.com/pooryaamirniya/MP_Midterm/releases/download/v1.0.1/short_video.mp4
