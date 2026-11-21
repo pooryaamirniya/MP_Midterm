@@ -1,0 +1,19 @@
+Soundify - Mobile Programming Midterm
+
+Source repository:
+https://github.com/pooryaamirniya/MP_Midterm
+
+Release APK (Android arm64-v8a):
+https://github.com/pooryaamirniya/MP_Midterm/raw/refs/heads/main/submission/app-release.apk
+
+Source ZIP (without build output):
+https://github.com/pooryaamirniya/MP_Midterm/releases/download/v1.0.1/soundify-source.zip
+
+README (setup, prerequisites and dependencies):
+https://github.com/pooryaamirniya/MP_Midterm/blob/main/README.md
+
+Requirements and implementation:
+https://github.com/pooryaamirniya/MP_Midterm/blob/main/docs/REQUIREMENTS.fa.md
+
+Presentation video folder (video pending upload):
+https://github.com/pooryaamirniya/MP_Midterm/tree/main/video
