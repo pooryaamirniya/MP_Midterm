@@ -1,0 +1,110 @@
+{
+  "tested_at_utc": "2026-11-19T09:52:08Z",
+  "checks": [
+    {
+      "method": "POST",
+      "path": "/auth/login",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/users/me",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/tracks?q=Coldplay&page_size=5",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/favorites?page_size=50",
+      "status": 200
+    },
+    {
+      "method": "POST",
+      "path": "/favorites",
+      "status": 201
+    },
+    {
+      "method": "GET",
+      "path": "/favorites",
+      "status": 200
+    },
+    {
+      "method": "DELETE",
+      "path": "/favorites/T-GSYNW2VM3LVEQNIHGLU54T3Z5F6X7MHY",
+      "status": 204
+    },
+    {
+      "method": "POST",
+      "path": "/playlists",
+      "status": 201
+    },
+    {
+      "method": "PATCH",
+      "path": "/playlists/9",
+      "status": 200
+    },
+    {
+      "method": "POST",
+      "path": "/playlists/9/tracks",
+      "status": 201
+    },
+    {
+      "method": "GET",
+      "path": "/playlists/9",
+      "status": 200
+    },
+    {
+      "method": "DELETE",
+      "path": "/playlists/9/tracks/T-GSYNW2VM3LVEQNIHGLU54T3Z5F6X7MHY",
+      "status": 204
+    },
+    {
+      "method": "GET",
+      "path": "/playlists/9",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/playlists",
+      "status": 200
+    },
+    {
+      "method": "DELETE",
+      "path": "/playlists/9",
+      "status": 204
+    },
+    {
+      "method": "DELETE",
+      "path": "/favorites/T-GSYNW2VM3LVEQNIHGLU54T3Z5F6X7MHY",
+      "status": 204
+    },
+    {
+      "method": "POST",
+      "path": "/auth/token/refresh",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/users/me",
+      "status": 200
+    },
+    {
+      "method": "POST",
+      "path": "/auth/token/refresh",
+      "status": 401
+    },
+    {
+      "method": "POST",
+      "path": "/auth/logout",
+      "status": 204
+    },
+    {
+      "method": "GET",
+      "path": "/users/me",
+      "status": 401
+    }
+  ]
+}
