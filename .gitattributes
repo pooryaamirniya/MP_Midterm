@@ -1,0 +1,13 @@
+* text=auto
+*.dart text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.kt text eol=lf
+*.kts text eol=lf
+*.ttf binary
+*.png binary
+*.apk binary
+assets/fonts/OFL.txt -whitespace
